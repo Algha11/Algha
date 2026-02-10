@@ -1,0 +1,2 @@
+# Algha
+Tugas informatika
